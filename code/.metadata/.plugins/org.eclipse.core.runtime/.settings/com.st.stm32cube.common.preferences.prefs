@@ -1,3 +1,4 @@
-DeviceConfigurationTool.AskToSwitchToCubeMxPerspective=false
-DeviceConfigurationTool.SwitchToCubeMxPerspective=true
+DeviceConfigurationTool..UpdaterCheckInterval=5
+DeviceConfigurationTool..UpdaterDataRefresh=dataRefreshDataOnly
+DeviceConfigurationTool..UpdaterDataRefreshInterfval=3
 eclipse.preferences.version=1

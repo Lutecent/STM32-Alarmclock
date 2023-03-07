@@ -1,8 +1,6 @@
 EESchema-LIBRARY Version 2.4
 #encoding utf-8
 #
-<<<<<<< HEAD
-=======
 # Connector_AudioJack2
 #
 DEF Connector_AudioJack2 J 0 20 Y Y 1 F N
@@ -377,5 +375,4 @@ X GND 1 0 0 0 D 50 50 1 1 W N
 ENDDRAW
 ENDDEF
 #
->>>>>>> parent of 18a4e96... refined pinout, changed solder pad sizes
 #End Library

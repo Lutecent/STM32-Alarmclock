@@ -13,8 +13,6 @@ Comment2 ""
 Comment3 ""
 Comment4 ""
 $EndDescr
-<<<<<<< HEAD
-=======
 $Comp
 L power:GND #PWR0103
 U 1 1 63C7AC61
@@ -754,5 +752,4 @@ F 3 "~" H 1450 1400 50  0001 C CNN
 $EndComp
 Wire Wire Line
 	6550 4150 6600 4150
->>>>>>> parent of 18a4e96... refined pinout, changed solder pad sizes
 $EndSCHEMATC

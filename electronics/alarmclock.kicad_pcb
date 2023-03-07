@@ -1,4 +1,4 @@
-(kicad_pcb (version 20171130) (host pcbnew "(5.1.10)-1")
+(kicad_pcb (version 20171130) (host pcbnew 5.1.5+dfsg1-2build2)
 
   (general
     (thickness 1.6)
@@ -1089,4 +1089,3 @@
   (segment (start 168.631 124.968) (end 168.869 124.73) (width 0.25) (layer F.Cu) (net 43))
 
 )
-
